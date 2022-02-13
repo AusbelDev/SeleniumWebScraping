@@ -1,0 +1,43 @@
+1644788239113	geckodriver	INFO	Listening on 127.0.0.1:56404
+1644788242181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56405" "-no-remote" "-profile" "C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofilevSzac4"
+1644788242434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofilevSzac4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56405/devtools/browser/2b53a740-85f1-4b1f-bfc8-5f1bb50e359e
+1644788244207	Marionette	INFO	Listening on port 56414
+1644788244250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644788258684	Marionette	INFO	Stopped listening on port 56414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644788326597	geckodriver	INFO	Listening on 127.0.0.1:56493
+1644788329660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56494" "-no-remote" "-profile" "C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofileR7tusj"
+1644788329916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofileR7tusj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56494/devtools/browser/4e5a9822-104e-4d17-8129-41c89f0b237d
+1644788331804	Marionette	INFO	Listening on port 56500
+1644788331834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644788344496	Marionette	INFO	Stopped listening on port 56500
+[Parent 27536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 27536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1644788375647	geckodriver	INFO	Listening on 127.0.0.1:56569
+1644788378718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56570" "-no-remote" "-profile" "C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofileMjcd6i"
+1644788378947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofileMjcd6i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56570/devtools/browser/c5875115-75f7-424e-80f9-652f5ec0b7e3
+1644788380506	Marionette	INFO	Listening on port 56577
+1644788380779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644788609481	Marionette	INFO	Stopped listening on port 56577
+1644788669774	geckodriver	INFO	Listening on 127.0.0.1:56720
+1644788672833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56721" "-no-remote" "-profile" "C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofileMq2UJe"
+1644788673091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kmarx\\AppData\\Local\\Temp\\rust_mozprofileMq2UJe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56721/devtools/browser/9f2a69cd-ec42-484d-915e-a3d1c797112a
+1644788674783	Marionette	INFO	Listening on port 56726
+1644788674894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644788676133	Marionette	INFO	Stopped listening on port 56726
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
